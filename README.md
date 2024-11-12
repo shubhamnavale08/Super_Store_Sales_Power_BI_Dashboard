@@ -27,7 +27,7 @@ The objective of this project is to contribute to the success of the business by
 + Power BI Sales Forecast
 + Export Power BI Dashboard
 
-### 📈Key Insights
+### 📌Key Insights
 + **Payment Insights**: 43% prefer COD, 22% Cards, 35% Online - Tailoring payment options can enhance customer satisfaction.
 + **Regional Sales Snapshot**: West leads with 33%, Central with 22%, East with 29%, South with 16% - Targeted marketing is key.
 + **Best-Selling Category**: Office Supplies - Exploring similar products promises growth.
