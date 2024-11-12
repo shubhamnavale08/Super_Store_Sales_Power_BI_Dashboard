@@ -1,6 +1,6 @@
-# Super_Store_Sales_Power_BI_Dashboard
+## Super_Store_Sales_Power_BI_Dashboard
 
-### Project Objective :
+#### Project Objective :
 The objective of this project is to contribute to the success of the business by utilizing Data Analysis techniques, specifically focusing on Time Series Analysis, to provide valuable insights and accurate Sales Forecasting of 15 Days.
 
 #### DESCRIPTION :
@@ -12,7 +12,7 @@ The objective of this project is to contribute to the success of the business by
   + **Actionable Insights and Recommendations**: End goal is to share valuable insights and actionable information that can drive strategic decision-making and support the 
       supermarket's goals for growth, efficiency, and customer satisfaction.
 
-### Tasks performed in this Power BI Project :
+#### ⏬️Tasks performed in this Power BI Project :
 + Import Data in Power BI
 + Data Cleaning & Processing in Power BI
 + Power Query Editor in Power BI
@@ -27,7 +27,7 @@ The objective of this project is to contribute to the success of the business by
 + Power BI Sales Forecast
 + Export Power BI Dashboard
 
-### Key Insights
+#### 📈Key Insights
 + **Payment Insights**: 43% prefer COD, 22% Cards, 35% Online - Tailoring payment options can enhance customer satisfaction.
 + **Regional Sales Snapshot**: West leads with 33%, Central with 22%, East with 29%, South with 16% - Targeted marketing is key.
 + **Best-Selling Category**: Office Supplies - Exploring similar products promises growth.
@@ -40,15 +40,15 @@ The objective of this project is to contribute to the success of the business by
 + **Forecast**: Next 15 days avg. sale $5,304 - Preparing for what lies ahead.
   **Insights from Dashboard**
 
-  ### SALES_DASHBOARD
+  ##### 📊SALES_DASHBOARD
   <img width="667" alt="Screenshot 2024-11-12 151455" src="https://github.com/user-attachments/assets/f992ddb9-928e-46ae-946a-896627db4b1b">
 
 
-  ### Sales Forecasting
+  ##### Sales Forecasting
   <img width="668" alt="Screenshot 2024-11-12 151822" src="https://github.com/user-attachments/assets/1c6c260f-b77b-4019-8ea5-0ec020c1bc76">
 
-  ### Conclusion:
+  #### 📊Conclusion:
   In the complex world of retail, this Superstore Dashboard Analysis acts as a guiding light, informing stakeholders, optimizing strategies, and maximizing profitability.
 
-  ### Recommendation:
+  #### Recommendation:
   Leverage insights from the dashboard to optimize marketing, supply chain, and customer engagement.
