@@ -51,4 +51,4 @@ The objective of this project is to contribute to the success of the business by
   In the complex world of retail, this Superstore Dashboard Analysis acts as a guiding light, informing stakeholders, optimizing strategies, and maximizing profitability.
 
   ### Recommendation:
-  Leverage insights from the dashboard to optimize marketing, supply chain, and customer engagemen
+  Leverage insights from the dashboard to optimize marketing, supply chain, and customer engagement.
