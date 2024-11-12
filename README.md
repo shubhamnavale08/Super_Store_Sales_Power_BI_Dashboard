@@ -1,9 +1,9 @@
 ## Super_Store_Sales_Power_BI_Dashboard
 
-### Project Objective :
+### ✅️Project Objective :
 The objective of this project is to contribute to the success of the business by utilizing Data Analysis techniques, specifically focusing on Time Series Analysis, to provide valuable insights and accurate Sales Forecasting of 15 Days.
 
-### DESCRIPTION :
+### ✅️DESCRIPTION :
 ##### The objective can be broken down into the following detailed components:
   + **Dashboard Creation**: Identify the KPIs, design an intuitive and visually appealing dashboard, add interactive visualizations and filtering capabilities to
       allow users to explore the data at various levels of granularity.
