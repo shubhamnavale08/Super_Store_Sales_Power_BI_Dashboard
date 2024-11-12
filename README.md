@@ -3,7 +3,7 @@
 ### Project Objective :
 The objective of this project is to contribute to the success of the business by utilizing Data Analysis techniques, specifically focusing on Time Series Analysis, to provide valuable insights and accurate Sales Forecasting of 15 Days.
 
-### DESCRIPTION :
+#### DESCRIPTION :
 ##### The objective can be broken down into the following detailed components:
   + **Dashboard Creation**: Identify the KPIs, design an intuitive and visually appealing dashboard, add interactive visualizations and filtering capabilities to
       allow users to explore the data at various levels of granularity.
@@ -38,4 +38,4 @@ The objective of this project is to contribute to the success of the business by
 + **Sales Trends**: A dip in April, strong year-end - Areas for optimization.
 + **Shipping Preferences**: Most prefer Standard Class - Guiding shipping strategies.
 + **Forecast**: Next 15 days avg. sale $5,304 - Preparing for what lies ahead.
-##### Insights from Dashboard
+  **Insights from Dashboard**
