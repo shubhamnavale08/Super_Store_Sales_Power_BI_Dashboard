@@ -44,11 +44,11 @@ The objective of this project is to contribute to the success of the business by
   <img width="667" alt="Screenshot 2024-11-12 151455" src="https://github.com/user-attachments/assets/f992ddb9-928e-46ae-946a-896627db4b1b">
 
 
-### Sales Forecasting
+  ### Sales Forecasting
   <img width="668" alt="Screenshot 2024-11-12 151822" src="https://github.com/user-attachments/assets/1c6c260f-b77b-4019-8ea5-0ec020c1bc76">
 
-### Conclusion:
-In the complex world of retail, this Superstore Dashboard Analysis acts as a guiding light, informing stakeholders, optimizing strategies, and maximizing profitability.
+  ### Conclusion:
+  In the complex world of retail, this Superstore Dashboard Analysis acts as a guiding light, informing stakeholders, optimizing strategies, and maximizing profitability.
 
-### Recommendation:
-Leverage insights from the dashboard to optimize marketing, supply chain, and customer engagemen
+  ### Recommendation:
+  Leverage insights from the dashboard to optimize marketing, supply chain, and customer engagemen
